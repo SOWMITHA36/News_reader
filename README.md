@@ -1,2 +1,1 @@
-# News_reader
-HTML
+# news_app
